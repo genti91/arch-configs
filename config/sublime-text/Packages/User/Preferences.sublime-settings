@@ -1,0 +1,9 @@
+{
+	"theme": "Adaptive.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "PyWal.sublime-color-scheme",
+	"font_size": 11,
+}

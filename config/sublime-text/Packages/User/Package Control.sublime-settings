@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"gruvbox",
+		"Gruvbox Dark",
+		"Gruvbox Material Theme",
+		"Package Control",
+		"Theme - Rainbow",
+	],
+	"in_process_packages":
+	[
+	],
+}
