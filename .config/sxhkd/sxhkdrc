@@ -140,8 +140,4 @@ super + shift + s
 	screenshot
 # random wallpaper and theme
 super + shift + r
-	wal -i Pictures/wallpapers/ -o $HOME/.local/bin/setpywal.sh && nitrogen --restore 
-super + shift + e
-	$HOME/.local/bin/setwallpaper.sh
-super + shift + f
-	nitrogen --restore
+	wal -i Pictures/wallpapers/ -o pywal_sublime.py -o pywal-discord -q
